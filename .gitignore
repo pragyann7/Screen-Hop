@@ -1,0 +1,12 @@
+# Swift/SwiftPM
+.build/
+.swiftpm/
+
+# macOS
+.DS_Store
+*.dSYM/
+
+# IDE / JetBrains
+.idea/
+outputs/
+work/
